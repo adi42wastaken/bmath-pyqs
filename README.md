@@ -1,5 +1,5 @@
 # bmath-pyqs
-##This is a backup of bmath Previous year questions as website is not reliable. Everything is taken from [here](https://www.isibang.ac.in/~statmath/oldqp/B1Y.html)
+## This is a backup of bmath Previous year questions as website is not reliable. Everything is taken from [here](https://www.isibang.ac.in/~statmath/oldqp/B1Y.html)
 Every file will be of the form **[(Subject)(Number)(X)(20XX-20YY)]**
 If X is
 1. empty: Endsem paper
